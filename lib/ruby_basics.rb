@@ -6,8 +6,8 @@ def assign_variable(value)
   value
 end
 
-def argue(test1, test2)
-  
+def argue(test1)
+  test1
 end
 
 def greeting
@@ -15,7 +15,6 @@ def greeting
 end
 
 def return_a_value
-  Nice
 
 end
 
